@@ -9,5 +9,10 @@
     "primaryCategory": "art-creativity",
     "splashImageUrl": "https://test-psi-nine-gqe45o77y0.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4NzcyNSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEFEOWRhRTE1ZEIyNTJCQTAzZmFFZkJCZTc2NzJmODVjQUJBMkJGMjgifQ",
+    "payload": "eyJkb21haW4iOiJ0ZXN0LXBzaS1uaW5lLWdxZTQ1bzc3eTAudmVyY2VsLmFwcCJ9",
+    "signature": "MHhkNzhkMDFjMzRkNTliMDAyZjQxZjQ4YmMxMzkzZDQyNGUzYjkyZTNlNDk4ZmI2ZmZkN2FiMDJjYTRjZDUwYTE3NmYwYmJhZjMwZWEyMzdjYzIyYzQyOWZlZGFiNDkxZDUzMTdiMTI4OGEzMDAzMzljODZlOGM1MzdiNzk3ZGJhMDFi"
   }
 }

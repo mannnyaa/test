@@ -1,13 +1,13 @@
 {
   "frame": {
-    "name": "h",
+    "name": "test",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
+    "iconUrl": "https://test-psi-nine-gqe45o77y0.vercel.app/logo.png",
+    "homeUrl": "https://test-psi-nine-gqe45o77y0.vercel.app/logo.png",
+    "subtitle": "test",
+    "description": "test",
+    "primaryCategory": "art-creativity",
+    "splashImageUrl": "https://test-psi-nine-gqe45o77y0.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
   }
 }
